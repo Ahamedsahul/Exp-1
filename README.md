@@ -22,18 +22,28 @@ v)Package Diagram
 vi)Sequence Diagram
 
 # DIAGRAMS:
-(upload all 6 diagrams)
 Activity Diagram:
+
 ![Screenshot 2025-05-13 134421](https://github.com/user-attachments/assets/7dafd1e3-4ff3-4b08-b724-9065cfc2d4c6)
+
 Class Diagram:
+
 ![Screenshot 2025-05-13 134620](https://github.com/user-attachments/assets/b48dd6ab-f6af-4d23-b651-ec8752995c7d)
+
 Communication Diagram:
+
 ![Screenshot 2025-05-13 134651](https://github.com/user-attachments/assets/6b42a2c4-8ae8-4755-959d-198e01a28071)
+
 Package Diagram:
+
 ![Screenshot 2025-05-13 134724](https://github.com/user-attachments/assets/f6536d70-e23a-467e-8128-b67b809aceea)
+
 Sequence Diagram:
+
 ![Screenshot 2025-05-13 134824](https://github.com/user-attachments/assets/89dc9cb5-c94b-4f2b-b651-84ce93a8a6a8)
+
 Use Case Diagram:
+
 ![Screenshot 2025-05-13 134910](https://github.com/user-attachments/assets/05fe30ed-8951-46e4-a841-fd69af5bb28c)
 
 # RESULT:
